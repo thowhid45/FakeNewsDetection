@@ -12,9 +12,13 @@ Dual Model Evaluation: Logistic Regression and Random Forest Classifier.
 
 
 ├── app.py                # Streamlit app file
+
 ├── True.csv              # Dataset of genuine news articles
+
 ├── Fake.csv              # Dataset of fake news articles
+
 ├── requirements.txt      # List of dependencies
+
 └── README.md             # Project documentation
 
 
